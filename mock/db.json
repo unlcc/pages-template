@@ -1,0 +1,758 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "name": "交易管理",
+      "href": "index.html"
+    },
+    {
+      "id": "2",
+      "name": "终端管理",
+      "href": "test.html"
+    },
+    {
+      "id": "3",
+      "name": "系统管理",
+      "href": "#"
+    }
+  ],
+  "tableTwo": {
+    "Data": [
+      {
+        "sumtcsmount": "0.07",
+        "sumtsbbs": 7,
+        "sumtsbmount": "0.07",
+        "sumttotalamount": "0.14",
+        "sumtzbs": 14,
+        "tdate": "20171212",
+        "tmercid": "751532155410001",
+        "tmercname": "莫磊",
+        "torgname": "京山农商行清算中心",
+        "treserval1": "微信"
+      },
+      {
+        "sumtcsmount": "8919.40",
+        "sumtsbbs": 0,
+        "sumtsbmount": "0.00",
+        "sumttotalamount": "8919.40",
+        "sumtzbs": 560,
+        "tdate": "20171212",
+        "tmercid": "751532154110001",
+        "tmercname": "京山县新市镇家家福购物广场绿林路分店",
+        "torgname": "京山农商行三阳支行",
+        "treserval1": "支付宝"
+      },
+      {
+        "sumtcsmount": "4655.00",
+        "sumtsbbs": 0,
+        "sumtsbmount": "0.00",
+        "sumttotalamount": "4655.00",
+        "sumtzbs": 217,
+        "tdate": "20171212",
+        "tmercid": "751532154110001",
+        "tmercname": "京山县新市镇家家福购物广场绿林路分店",
+        "torgname": "京山农商行三阳支行",
+        "treserval1": "微信"
+      },
+      {
+        "sumtcsmount": "0.02",
+        "sumtsbbs": 1,
+        "sumtsbmount": "0.02",
+        "sumttotalamount": "0.04",
+        "sumtzbs": 2,
+        "tdate": "20171206",
+        "tmercid": "751532170110001",
+        "tmercname": "莫磊",
+        "torgname": "京山农商行清算中心",
+        "treserval1": "支付宝"
+      },
+      {
+        "sumtcsmount": "0.42",
+        "sumtsbbs": 1,
+        "sumtsbmount": "0.02",
+        "sumttotalamount": "0.44",
+        "sumtzbs": 2,
+        "tdate": "20171206",
+        "tmercid": "751532170110001",
+        "tmercname": "莫磊",
+        "torgname": "京山农商行清算中心",
+        "treserval1": "微信"
+      },
+      {
+        "sumtcsmount": "0.02",
+        "sumtsbbs": 1,
+        "sumtsbmount": "0.01",
+        "sumttotalamount": "0.03",
+        "sumtzbs": 3,
+        "tdate": "20171206",
+        "tmercid": "751532155410002",
+        "tmercname": "莫磊",
+        "torgname": "京山农商行清算中心",
+        "treserval1": "支付宝"
+      },
+      {
+        "sumtcsmount": "0.07",
+        "sumtsbbs": 1,
+        "sumtsbmount": "0.01",
+        "sumttotalamount": "0.08",
+        "sumtzbs": 8,
+        "tdate": "20171206",
+        "tmercid": "751532155410002",
+        "tmercname": "莫磊",
+        "torgname": "京山农商行清算中心",
+        "treserval1": "微信"
+      },
+      {
+        "sumtcsmount": "0.11",
+        "sumtsbbs": 5,
+        "sumtsbmount": "0.05",
+        "sumttotalamount": "0.16",
+        "sumtzbs": 15,
+        "tdate": "20171206",
+        "tmercid": "751532155410001",
+        "tmercname": "莫磊",
+        "torgname": "京山农商行清算中心",
+        "treserval1": "支付宝"
+      },
+      {
+        "sumtcsmount": "0.15",
+        "sumtsbbs": 5,
+        "sumtsbmount": "0.05",
+        "sumttotalamount": "0.20",
+        "sumtzbs": 16,
+        "tdate": "20171206",
+        "tmercid": "751532155410001",
+        "tmercname": "莫磊",
+        "torgname": "京山农商行清算中心",
+        "treserval1": "微信"
+      },
+      {
+        "sumtcsmount": "0.20",
+        "sumtsbbs": 0,
+        "sumtsbmount": "0.00",
+        "sumttotalamount": "0.20",
+        "sumtzbs": 1,
+        "tdate": "20171206",
+        "tmercid": "751532154110001",
+        "tmercname": "京山县新市镇家家福购物广场绿林路分店",
+        "torgname": "京山农商行三阳支行",
+        "treserval1": "支付宝"
+      },
+      {
+        "sumtcsmount": "0.20",
+        "sumtsbbs": 0,
+        "sumtsbmount": "0.00",
+        "sumttotalamount": "0.20",
+        "sumtzbs": 1,
+        "tdate": "20171206",
+        "tmercid": "751532154110001",
+        "tmercname": "京山县新市镇家家福购物广场绿林路分店",
+        "torgname": "京山农商行三阳支行",
+        "treserval1": "微信"
+      },
+      {
+        "sumtcsmount": "0.13",
+        "sumtsbbs": 8,
+        "sumtsbmount": "0.08",
+        "sumttotalamount": "0.21",
+        "sumtzbs": 21,
+        "tdate": "20171206",
+        "tmercid": "751532149000001",
+        "tmercname": "吴启明",
+        "torgname": "京山农商行清算中心",
+        "treserval1": "支付宝"
+      },
+      {
+        "sumtcsmount": "0.24",
+        "sumtsbbs": 8,
+        "sumtsbmount": "0.08",
+        "sumttotalamount": "0.32",
+        "sumtzbs": 32,
+        "tdate": "20171206",
+        "tmercid": "751532149000001",
+        "tmercname": "吴启明",
+        "torgname": "京山农商行清算中心",
+        "treserval1": "微信"
+      }
+    ],
+    "DescData": [
+      {
+        "title": {
+          "tmercid": "商户ID",
+          "tmercname": "商户名称",
+          "torgname": "所属机构",
+          "treserval1": "支付方式",
+          "sumttotalamount": "交易总金额",
+          "sumtzbs": "交易总笔数",
+          "sumtsbmount": "退款金额",
+          "sumtsbbs": "退款笔数",
+          "sumtcsmount": "实收金额",
+          "tdate": "日期"
+        }
+      }
+    ],
+    "SearchData": [
+      {
+        "name": "cTermCode",
+        "title": "终端编号",
+        "type": "text"
+      },
+      {
+        "name": "acjgmc",
+        "title": "所属机构名称",
+        "type": "text"
+      },
+      {
+        "name": "cTraceNo",
+        "title": "系统跟踪号",
+        "type": "select"
+      },
+      {
+        "name": "dTxnAmount",
+        "title": "金额(元)",
+        "type": "select"
+      }
+    ]
+  },
+  "tableOne": {
+    "Data": [
+      {
+        "acPhone": "13800138000",
+        "acStatus": "正常",
+        "acUserId": "751532154110001",
+        "acUserName": "京山县新市镇家家福购物广场绿林路分店",
+        "acUserType": "普通用户",
+        "acjgmc": "京山农商行三阳支行",
+        "table-opr": [
+          {
+            "iconurl": "#",
+            "key": "viewBtn",
+            "name": "查看",
+            "url": "/sys/userSelById.action"
+          },
+          {
+            "iconurl": "#",
+            "key": "updateBtn",
+            "name": "更新",
+            "url": "/sys/userupdate.action"
+          },
+          {
+            "iconurl": "#",
+            "key": "applyTerm",
+            "name": "1111111111",
+            "url": "/sys/userupdate.action"
+          }
+        ]
+      },
+      {
+        "acPhone": "13189034974",
+        "acStatus": "正常",
+        "acUserId": "8437799e78b74f4bbd0335105789ced6",
+        "acUserName": "ceshi",
+        "acUserType": "普通用户",
+        "acjgmc": "京山农商行清算中心",
+        "table-opr": [
+          {
+            "iconurl": "#",
+            "key": "viewBtn",
+            "name": "查看",
+            "url": "/sys/userSelById.action"
+          },
+          {
+            "iconurl": "#",
+            "key": "updateBtn",
+            "name": "更新",
+            "url": "/sys/userupdate.action"
+          }
+        ]
+      },
+      {
+        "acPhone": "13189034974",
+        "acStatus": "正常",
+        "acUserId": "8e63b48a2c394137b54f8e62bdc3c2d4",
+        "acUserName": "ceshi1",
+        "acUserType": "普通用户",
+        "acjgmc": "京山农商行清算中心",
+        "table-opr": [
+          {
+            "iconurl": "#",
+            "key": "viewBtn",
+            "name": "查看",
+            "url": "/sys/userSelById.action"
+          },
+          {
+            "iconurl": "#",
+            "key": "updateBtn",
+            "name": "更新",
+            "url": "/sys/userupdate.action"
+          }
+        ]
+      },
+      {
+        "acPhone": "13800138000",
+        "acStatus": "正常",
+        "acUserId": "Admin",
+        "acUserName": "高级系统管理员",
+        "acUserType": "超级管理用户",
+        "acjgmc": "平台机构",
+        "table-opr": [
+          {
+            "iconurl": "#",
+            "key": "viewBtn",
+            "name": "查看",
+            "url": "/sys/userSelById.action"
+          },
+          {
+            "iconurl": "#",
+            "key": "updateBtn",
+            "name": "更新",
+            "url": "/sys/userupdate.action"
+          },
+          {
+            "iconurl": "#",
+            "key": "applyTerm",
+            "name": "申请终端",
+            "url": "/sys/userupdate.action"
+          },
+          {
+            "iconurl": "#",
+            "key": "diceBtn",
+            "name": "基础费率",
+            "url": "/sys/userupdate.action"
+          }
+        ]
+      },
+      {
+        "acPhone": "18888888888",
+        "acStatus": "正常",
+        "acUserId": "ceshi",
+        "acUserName": "ceshi",
+        "acUserType": "普通用户",
+        "acjgmc": "湖北省农村信用社联合社",
+        "table-opr": [
+          {
+            "iconurl": "#",
+            "key": "viewBtn",
+            "name": "查看",
+            "url": "/sys/userSelById.action"
+          },
+          {
+            "iconurl": "#",
+            "key": "updateBtn",
+            "name": "更新",
+            "url": "/sys/userupdate.action"
+          }
+        ]
+      },
+      {
+        "acPhone": "13189034974",
+        "acStatus": "正常",
+        "acUserId": "ceshi1",
+        "acUserName": "ceshi1",
+        "acUserType": "普通用户",
+        "acjgmc": "京山农商行清算中心",
+        "table-opr": [
+          {
+            "iconurl": "#",
+            "key": "viewBtn",
+            "name": "查看",
+            "url": "/sys/userSelById.action"
+          },
+          {
+            "iconurl": "#",
+            "key": "updateBtn",
+            "name": "更新",
+            "url": "/sys/userupdate.action"
+          },
+          {
+            "iconurl": "#",
+            "key": "applyTerm",
+            "name": "申请终端",
+            "url": "/sys/userupdate.action"
+          },
+          {
+            "iconurl": "#",
+            "key": "applyTerm",
+            "name": "申请终端",
+            "url": "/sys/userupdate.action"
+          }
+        ]
+      },
+      {
+        "acPhone": "13189034974",
+        "acStatus": "正常",
+        "acUserId": "ceshi2",
+        "acUserName": "ceshi2",
+        "acUserType": "普通用户",
+        "acjgmc": "京山农商行清算中心",
+        "table-opr": [
+          {
+            "iconurl": "#",
+            "key": "viewBtn",
+            "name": "查看",
+            "url": "/sys/userSelById.action"
+          },
+          {
+            "iconurl": "#",
+            "key": "updateBtn",
+            "name": "更新",
+            "url": "/sys/userupdate.action"
+          }
+        ]
+      },
+      {
+        "acPhone": "13189034974",
+        "acStatus": "停用",
+        "acUserId": "ceshi3",
+        "acUserName": "ceshi3",
+        "acUserType": "普通用户",
+        "acjgmc": "京山农商行清算中心",
+        "table-opr": [
+          {
+            "iconurl": "#",
+            "key": "viewBtn",
+            "name": "查看",
+            "url": "/sys/userSelById.action"
+          },
+          {
+            "iconurl": "#",
+            "key": "updateBtn",
+            "name": "更新",
+            "url": "/sys/userupdate.action"
+          },
+          {
+            "iconurl": "#",
+            "key": "applyTerm",
+            "name": "申请终端",
+            "url": "/sys/userupdate.action"
+          },
+          {
+            "iconurl": "#",
+            "key": "applyTerm",
+            "name": "申请终端",
+            "url": "/sys/userupdate.action"
+          },
+          {
+            "iconurl": "#",
+            "key": "applyTerm",
+            "name": "申请终端",
+            "url": "/sys/userupdate.action"
+          }
+        ]
+      },
+      {
+        "acPhone": "13972883236",
+        "acStatus": "正常",
+        "acUserId": "d8c948a8e39146c2ba41d16ca99332c7",
+        "acUserName": "京山县新市镇家家福购物广场绿林路分店",
+        "acUserType": "普通用户",
+        "acjgmc": "京山农商行三阳支行",
+        "table-opr": [
+          {
+            "iconurl": "#",
+            "key": "viewBtn",
+            "name": "查看",
+            "url": "/sys/userSelById.action"
+          },
+          {
+            "iconurl": "#",
+            "key": "updateBtn",
+            "name": "更新",
+            "url": "/sys/userupdate.action"
+          }
+        ]
+      },
+      {
+        "acPhone": "13972883236",
+        "acStatus": "正常",
+        "acUserId": "f8579fc560da4b38a71451273025e9de",
+        "acUserName": "京山县新市镇家家福购物广场绿林路分店",
+        "acUserType": "普通用户",
+        "acjgmc": "京山农商行三阳支行",
+        "table-opr": [
+          {
+            "iconurl": "#",
+            "key": "viewBtn",
+            "name": "查看",
+            "url": "/sys/userSelById.action"
+          },
+          {
+            "iconurl": "#",
+            "key": "updateBtn",
+            "name": "更新",
+            "url": "/sys/userupdate.action"
+          }
+        ]
+      },
+      {
+        "acPhone": "18888888888",
+        "acStatus": "正常",
+        "acUserId": "hbjsadmin",
+        "acUserName": "湖北京山管员",
+        "acUserType": "管理用户",
+        "acjgmc": "京山农商行清算中心",
+        "table-opr": [
+          {
+            "iconurl": "#",
+            "key": "viewBtn",
+            "name": "查看",
+            "url": "/sys/userSelById.action"
+          },
+          {
+            "iconurl": "#",
+            "key": "updateBtn",
+            "name": "更新",
+            "url": "/sys/userupdate.action"
+          }
+        ]
+      },
+      {
+        "acPhone": "18888888888",
+        "acStatus": "正常",
+        "acUserId": "hbnx",
+        "acUserName": "湖北农信",
+        "acUserType": "管理用户",
+        "acjgmc": "湖北省农村信用社联合社",
+        "table-opr": [
+          {
+            "iconurl": "#",
+            "key": "viewBtn",
+            "name": "查看",
+            "url": "/sys/userSelById.action"
+          },
+          {
+            "iconurl": "#",
+            "key": "updateBtn",
+            "name": "更新",
+            "url": "/sys/userupdate.action"
+          }
+        ]
+      },
+      {
+        "acPhone": "18888888888",
+        "acStatus": "正常",
+        "acUserId": "hbnxjs",
+        "acUserName": "湖北农信京山",
+        "acUserType": "普通用户",
+        "acjgmc": "京山农商行清算中心",
+        "table-opr": [
+          {
+            "iconurl": "#",
+            "key": "viewBtn",
+            "name": "查看",
+            "url": "/sys/userSelById.action"
+          },
+          {
+            "iconurl": "#",
+            "key": "updateBtn",
+            "name": "更新",
+            "url": "/sys/userupdate.action"
+          }
+        ]
+      },
+      {
+        "acPhone": "18676787646",
+        "acStatus": "正常",
+        "acUserId": "hbnxjssy",
+        "acUserName": "湖北农信京山三阳支行",
+        "acUserType": "普通用户",
+        "acjgmc": "京山农商行三阳支行",
+        "table-opr": [
+          {
+            "iconurl": "#",
+            "key": "viewBtn",
+            "name": "查看",
+            "url": "/sys/userSelById.action"
+          },
+          {
+            "iconurl": "#",
+            "key": "updateBtn",
+            "name": "更新",
+            "url": "/sys/userupdate.action"
+          }
+        ]
+      },
+      {
+        "acPhone": "13000000000",
+        "acStatus": "正常",
+        "acUserId": "HS001",
+        "acUserName": "HS测试用户",
+        "acUserType": "普通用户",
+        "acjgmc": "嘉鱼县农村信用合作联社陆溪信用社",
+        "table-opr": [
+          {
+            "iconurl": "#",
+            "key": "viewBtn",
+            "name": "查看",
+            "url": "/sys/userSelById.action"
+          },
+          {
+            "iconurl": "#",
+            "key": "updateBtn",
+            "name": "更新",
+            "url": "/sys/userupdate.action"
+          }
+        ]
+      }
+    ],
+    "DescData": [
+      {
+        "title": {
+          "acUserId": "用户ID",
+          "acjgmc": "机构名称",
+          "acUserName": "用户名",
+          "acPhone": "联系电话",
+          "acUserType": "用户类型",
+          "acStatus": "状态",
+          "table-opr": "操作"
+        },
+        "key": "acUserId"
+      }
+    ],
+    "SearchData": [
+      {
+        "name": "acUserName",
+        "title": "用户名",
+        "type": "text"
+      },
+      {
+        "name": "acPhone",
+        "title": "联系电话",
+        "type": "text"
+      },
+      {
+        "name": "acUserType",
+        "title": "用户类型",
+        "type": "select"
+      },
+      {
+        "name": "wqeqwe",
+        "title": "大声道分",
+        "type": "text"
+      },
+      {
+        "name": "acPhwererone",
+        "title": "联系电话",
+        "type": "text"
+      },
+      {
+        "name": "acUsertyrtyrType",
+        "title": "tertiary",
+        "type": "text"
+      }
+    ]
+  },
+  "dict": [
+    {
+      "name": "acUserType",
+      "content": [
+        {
+          "key": "哈哈哈 0",
+          "value": "0"
+        },
+        {
+          "key": "acUserT狗狗狗ype 1",
+          "value": "1"
+        },
+        {
+          "key": "acUs12王企鹅二群erType 2",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "name": "dTxnAmount",
+      "content": [
+        {
+          "key": "持续宣传 0",
+          "value": "0"
+        },
+        {
+          "key": "玩儿 1",
+          "value": "1"
+        },
+        {
+          "key": "让他一人同意 2",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "name": "cTraceNo",
+      "content": [
+        {
+          "key": "冗余听日有 0",
+          "value": "0"
+        },
+        {
+          "key": "cTrac明白你麻痹eNo 1",
+          "value": "1"
+        },
+        {
+          "key": "欧抑郁 2",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "name": "acStatus",
+      "content": [
+        {
+          "key": "acStatus 1",
+          "value": "0"
+        },
+        {
+          "key": "acStatus 2",
+          "value": "1"
+        },
+        {
+          "key": "acStatus 3",
+          "value": "2"
+        }
+      ]
+    }
+  ],
+  "detail": {
+    "acPhone": "1323",
+    "acPwdValid": "000人",
+    "acStatus": "2",
+    "acTel": "1333333333",
+    "acUpPwdDate": "23232323",
+    "acUserDept": "京山农商行三阳支行规划局",
+    "acUserGroup": "cef13c92dbd3429d93520e5c30068764",
+    "acUserId": "751532154110001",
+    "acUserName": "京山县新市镇家家福购物广场绿林路分店"
+  },
+  "funtionBtn": [
+    {
+      "key": "addData",
+      "name": "新增",
+      "url": "/pos/MerBatchSave.action"
+    },
+    {
+      "key": "impData",
+      "name": "导入",
+      "url": "/pos/merchantimpdata.action"
+    },
+    {
+      "key": "deleteData",
+      "name": "删除",
+      "url": "/pos/MerBatchDelete.action"
+    }
+  ],
+  "deleteData": {
+    "tableKey": "1"
+  },
+  "addData": {
+    "acPhone": "133",
+    "acPwdValid": "123",
+    "acStatus": "",
+    "acTel": "153",
+    "acUpPwdDate": "",
+    "acUserDept": "",
+    "acUserGroup": "",
+    "acUserId": "",
+    "acUserName": ""
+  },
+  "update": {}
+}
